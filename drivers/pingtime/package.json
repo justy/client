@@ -1,0 +1,21 @@
+{
+  "name": "pingtime",
+  "version": "0.0.0",
+  "description": "Ninja Blocks Driver to report on ping time to a nominated server.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:justy/ninja-driver-pingtime.git"
+  },
+  "keywords": [
+    "ninjablock",
+    "driver",
+    "ping",
+    "network"
+  ],
+  "author": "justy",
+  "license": "BSD"
+}
